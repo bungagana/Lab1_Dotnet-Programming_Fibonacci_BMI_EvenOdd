@@ -1,0 +1,7 @@
+C:\KULIAH-NEW GROWUP\SEMESTER 5\Dotnet Programming\laboran\Lab 1\Lab1_Project\Lab1\bin\Debug\Lab1.exe.config
+C:\KULIAH-NEW GROWUP\SEMESTER 5\Dotnet Programming\laboran\Lab 1\Lab1_Project\Lab1\bin\Debug\Lab1.exe
+C:\KULIAH-NEW GROWUP\SEMESTER 5\Dotnet Programming\laboran\Lab 1\Lab1_Project\Lab1\bin\Debug\Lab1.pdb
+C:\KULIAH-NEW GROWUP\SEMESTER 5\Dotnet Programming\laboran\Lab 1\Lab1_Project\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+C:\KULIAH-NEW GROWUP\SEMESTER 5\Dotnet Programming\laboran\Lab 1\Lab1_Project\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\KULIAH-NEW GROWUP\SEMESTER 5\Dotnet Programming\laboran\Lab 1\Lab1_Project\Lab1\obj\Debug\Lab1.exe
+C:\KULIAH-NEW GROWUP\SEMESTER 5\Dotnet Programming\laboran\Lab 1\Lab1_Project\Lab1\obj\Debug\Lab1.pdb
